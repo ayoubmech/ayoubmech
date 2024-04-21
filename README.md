@@ -13,8 +13,8 @@ Breu descripció del projecte 2.
 
 ## Connecta amb Mi
 Pots trobar-me a les xarxes socials:
-- [Twitter](https://twitter.com/perfildetwitter)
-- [LinkedIn](https://www.linkedin.com/in/perfildellinkedin)
+- [Twitter](https://twitter.com/)
+- [LinkedIn](https://www.linkedin.com)
 
 ## Codis Font
 ```javascript
