@@ -6,11 +6,9 @@ Hola! Sóc un apassionat del desenvolupament de programari i l'aprenentatge cons
 
 ## Projectes Destacats
 ### [Toro VR](https://github.com/ayoubmech/proyecto-toro-vr)
-Breu descripció del projecte 1.
-
+En aquest projecte estem treballant en el desenvolupament d'un sistema de montacàrrega que incorpora tecnologia de realitat virtual (VR) per millorar l'experiència d'ús i la seguretat dels operadors.
 ### [Infraestructura_m7](https://github.com/ayoubmech/InfraestructuraM782)
-Breu descripció del projecte 2.
-
+En aquest projecte de servidor web, estem centrats en desenvolupar una plataforma robusta i escalable per gestionar les sol·licituds HTTP entrants i servir contingut web de manera eficient i fiable. Estem utilitzant les últimes tecnologies i pràctiques de desenvolupament per garantir un rendiment òptim i una experiència d'usuari fluida. A més, estem explorant opcions per millorar la seguretat del servidor i implementar funcionalitats avançades, com ara control d'accés, registre d'errors i gestió de càrrega. Mitjançant la col·laboració i l'experimentació continuada, aspirem a crear un servidor web robust i adaptable que pugui respondre eficaçment a les necessitats dels nostres usuaris i mantenir-se al dia amb les demandes dels entorns web en evolució.
 ## Connecta amb Mi
 Pots trobar-me a les xarxes socials:
 - [Twitter](https://twitter.com/)
