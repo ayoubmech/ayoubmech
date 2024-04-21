@@ -23,7 +23,7 @@ Pots trobar-me a les xarxes socials:
 
 ## Contribució a la Comunitat
 - **Stack Overflow:** Responc preguntes relacionades amb JavaScript, Python i algoritmes.
-- **Open Source Contributions:** Contribucions a projectes de codi obert com ara [Nombre del Projecte](https://github.com/perfildelgithub/projecte).
+- **Open Source Contributions:** Contribucions a projectes de codi obert.
 - **Compartir Coneixements:** Escriu articles tècnics en el blog personal o altres plataformes com Medium.
 
 ## Llibres Recomanats
