@@ -2,13 +2,13 @@
 # Benvingut al meu perfil de GitHub! 🚀
 
 ## Sobre Mi
-Hola! Sóc [Nom Cognom](https://www.linkedin.com/in/perfildellinkedin), un apassionat del desenvolupament de programari i l'aprenentatge constant. M'encanta treballar en projectes interessants i col·laborar amb altres desenvolupadors per créixer professionalment.
+Hola! Sóc un apassionat del desenvolupament de programari i l'aprenentatge constant. M'encanta treballar en projectes interessants i col·laborar amb altres desenvolupadors per créixer professionalment.
 
 ## Projectes Destacats
-### [Nom del Projecte 1](https://github.com/perfildelgithub/projecte1)
+### [Nom del Projecte 1](https://github.com/ayoubmech/proyecto-toro-vr)
 Breu descripció del projecte 1.
 
-### [Nom del Projecte 2](https://github.com/perfildelgithub/projecte2)
+### [Nom del Projecte 2](https://github.com/ayoubmech/InfraestructuraM782)
 Breu descripció del projecte 2.
 
 ## Connecta amb Mi
